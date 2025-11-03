@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🛢️ Natural Gas Price Analysis | JPMorgan Chase \& Co (Forage)
 
 # 📘 Overview
@@ -7,7 +6,7 @@
 
 # The objective was to analyze natural gas price data, identify trends, and build a predictive model to forecast price movements.
 
-=======
+
 # 🛢️ Natural Gas Price Analysis | JPMorgan Chase & Co (Forage)
 
 ## 📘 Overview
