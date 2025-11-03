@@ -48,7 +48,7 @@ Then open the notebook in JupyterLab.
 
 This project simulates a real-world Data Science role at JPMorgan Chase & Co, focused on commodity pricing and analytics.
 
-##Author: Harish R (Starboi)
+##Author: Harish R 
 📫 LinkedIn
  | 🌐 Aspiring AI & Data Engineer
 
